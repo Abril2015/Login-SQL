@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\bin\Debug\Interfaces_Proyecto.exe.config
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\bin\Debug\Interfaces_Proyecto.exe
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\bin\Debug\Interfaces_Proyecto.pdb
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.exe
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.pdb
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.PantallaInicio.resources
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.Administrador.resources
+C:\Users\Usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Interfaces_Proyecto\Interfaces_Proyecto\obj\Debug\Interfaces_Proyecto.Usuario.resources
